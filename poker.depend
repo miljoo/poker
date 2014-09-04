@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1406969669 source:c:\juha\koodaus\poker\poker\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<queue>
+	<algorithm>
+	"Card.h"
+	"funcs.h"
+
+1404152252 c:\juha\koodaus\poker\poker\cards.h
+
+1404277812 c:\juha\koodaus\poker\poker\include\card.h
+
+1404332500 source:c:\juha\koodaus\poker\poker\card.cpp
+	"Card.h"
+
+1406054291 c:\juha\koodaus\poker\poker\card.h
+
+1407678817 source:c:\juha\koodaus\poker\poker\funcs.cpp
+	"funcs.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1407678814 c:\juha\koodaus\poker\poker\funcs.h
+	"card.h"
+
